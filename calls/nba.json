@@ -1,0 +1,65 @@
+{
+  "_note": "Lakers calls locked before each game (D106). Append-only: the last entry before the start is the official call.",
+  "calls": [
+    {
+      "eventId": "401909934",
+      "date": "2026-11-04",
+      "start": "2026-11-05T03:00Z",
+      "tbd": false,
+      "game": "LAL @ SAC",
+      "team": "Lakers",
+      "opponent": "Kings",
+      "usRec": "6-2",
+      "oppRec": "1-6",
+      "isHome": false,
+      "prob": 70,
+      "capturedAt": "2026-11-03T07:12:56.825Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/41594802142"
+    },
+    {
+      "eventId": "401909294",
+      "date": "2026-11-06",
+      "start": "2026-11-07T03:00Z",
+      "tbd": false,
+      "game": "POR @ LAL",
+      "team": "Lakers",
+      "opponent": "Trail Blazers",
+      "usRec": "6-2",
+      "oppRec": "5-1",
+      "isHome": true,
+      "prob": 52,
+      "capturedAt": "2026-11-05T03:27:05.104Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/41961661858"
+    },
+    {
+      "eventId": "401909294",
+      "date": "2026-11-06",
+      "start": "2026-11-07T03:00Z",
+      "tbd": false,
+      "game": "POR @ LAL",
+      "team": "Lakers",
+      "opponent": "Trail Blazers",
+      "usRec": "7-2",
+      "oppRec": "6-1",
+      "isHome": true,
+      "prob": 52,
+      "capturedAt": "2026-11-05T20:59:50.568Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/42108492167"
+    },
+    {
+      "eventId": "401909946",
+      "date": "2026-11-08",
+      "start": "2026-11-08T23:00Z",
+      "tbd": false,
+      "game": "LAL @ DET",
+      "team": "Lakers",
+      "opponent": "Pistons",
+      "usRec": "8-2",
+      "oppRec": "6-2",
+      "isHome": false,
+      "prob": 51,
+      "capturedAt": "2026-11-07T18:38:58.558Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/42402317260"
+    }
+  ]
+}
