@@ -60,6 +60,21 @@
       "prob": 51,
       "capturedAt": "2026-11-07T18:38:58.558Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/42402317260"
+    },
+    {
+      "eventId": "401909952",
+      "date": "2026-11-09",
+      "start": "2026-11-10T00:00Z",
+      "tbd": false,
+      "game": "LAL @ ATL",
+      "team": "Lakers",
+      "opponent": "Hawks",
+      "usRec": "9-2",
+      "oppRec": "7-4",
+      "isHome": false,
+      "prob": 54,
+      "capturedAt": "2026-11-09T02:36:05.723Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/42551827912"
     }
   ]
 }
