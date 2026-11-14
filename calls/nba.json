@@ -120,6 +120,21 @@
       "prob": 78,
       "capturedAt": "2026-11-11T21:14:14.791Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/43101289117"
+    },
+    {
+      "eventId": "401909986",
+      "date": "2026-11-15",
+      "start": "2026-11-15T21:00Z",
+      "tbd": false,
+      "game": "LAL @ PHX",
+      "team": "Lakers",
+      "opponent": "Suns",
+      "usRec": "11-2",
+      "oppRec": "5-6",
+      "isHome": false,
+      "prob": 61,
+      "capturedAt": "2026-11-14T00:18:41.215Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/43533309297"
     }
   ]
 }
