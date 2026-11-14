@@ -1,0 +1,20 @@
+{
+  "_note": "Steelers calls locked before each game (D106). Append-only: the last entry before the start is the official call.",
+  "calls": [
+    {
+      "eventId": "401873064",
+      "date": "2026-11-15",
+      "start": "2026-11-16T01:20Z",
+      "tbd": false,
+      "game": "PIT @ CIN",
+      "team": "Steelers",
+      "opponent": "Bengals",
+      "usRec": "6-2",
+      "oppRec": "6-2",
+      "isHome": false,
+      "prob": 49,
+      "capturedAt": "2026-11-14T03:06:10.168Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/43549832839"
+    }
+  ]
+}
