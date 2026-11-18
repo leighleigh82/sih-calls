@@ -150,6 +150,21 @@
       "prob": 72,
       "capturedAt": "2026-11-16T23:18:36.250Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/43978133684"
+    },
+    {
+      "eventId": "401910017",
+      "date": "2026-11-18",
+      "start": "2026-11-19T03:00Z",
+      "tbd": false,
+      "game": "UTAH @ LAL",
+      "team": "Lakers",
+      "opponent": "Jazz",
+      "usRec": "12-2",
+      "oppRec": "1-13",
+      "isHome": true,
+      "prob": 85,
+      "capturedAt": "2026-11-18T04:11:51.433Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/44235621646"
     }
   ]
 }
