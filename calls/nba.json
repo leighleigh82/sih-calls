@@ -180,6 +180,21 @@
       "prob": 82,
       "capturedAt": "2026-11-18T21:48:23.101Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/44405215548"
+    },
+    {
+      "eventId": "401909313",
+      "date": "2026-11-20",
+      "start": "2026-11-21T03:00Z",
+      "tbd": false,
+      "game": "SAC @ LAL",
+      "team": "Lakers",
+      "opponent": "Kings",
+      "usRec": "13-2",
+      "oppRec": "1-12",
+      "isHome": true,
+      "prob": 85,
+      "capturedAt": "2026-11-19T04:06:09.117Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/44455955844"
     }
   ]
 }
