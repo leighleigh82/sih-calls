@@ -15,6 +15,21 @@
       "prob": 49,
       "capturedAt": "2026-11-14T03:06:10.168Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/43549832839"
+    },
+    {
+      "eventId": "401873076",
+      "date": "2026-11-22",
+      "start": "2026-11-22T18:00Z",
+      "tbd": false,
+      "game": "PIT @ PHI",
+      "team": "Steelers",
+      "opponent": "Eagles",
+      "usRec": "6-3",
+      "oppRec": "2-7",
+      "isHome": false,
+      "prob": 69,
+      "capturedAt": "2026-11-20T21:44:53.448Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/44823017963"
     }
   ]
 }
