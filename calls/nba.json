@@ -270,6 +270,21 @@
       "prob": 50,
       "capturedAt": "2026-11-26T22:54:48.995Z",
       "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/45907717126"
+    },
+    {
+      "eventId": "401910051",
+      "date": "2026-11-29",
+      "start": "2026-11-29T21:00Z",
+      "tbd": false,
+      "game": "LAL @ MEM",
+      "team": "Lakers",
+      "opponent": "Grizzlies",
+      "usRec": "15-3",
+      "oppRec": "15-5",
+      "isHome": false,
+      "prob": 51,
+      "capturedAt": "2026-11-28T04:42:16.875Z",
+      "proof": "https://github.com/leighleigh82/leighleigh82-sports-intelligence-hub-new-repo/actions/runs/46108762963"
     }
   ]
 }
